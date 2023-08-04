@@ -57,20 +57,20 @@ education:
         university: Nottingham Trent University 
         time: Oct 2020 - Sep 2021
         details: |
-            - High grades in Software Engineering with C++ coursework, showcasing a
-            strong foundation in programming principles and software development.
+            - High grades in Software Engineering with C++ coursework, showcasing a 
+                strong foundation in programming principles and software development.
             - Attained high grades in Machine Learning with Python course,
-            demonstrating a solid grasp of machine learning algorithms, data preprocessing, and model evaluation.
+                demonstrating a solid grasp of machine learning algorithms, data preprocessing, and model evaluation.
             - Conducted an in-depth research project focusing on utilizing SQLite in-memory database as an 
-            Extract, Transform, Load (ETL) tool for streamlining data processing pipelines. Successfully d
-            emonstrated the efficiency and practicality of SQLite in handling ETL tasks.      
+                Extract, Transform, Load (ETL) tool for streamlining data processing pipelines. Successfully d
+                emonstrated the efficiency and practicality of SQLite in handling ETL tasks.      
             
         - degree: BSc in Mathematics
         university: University of Ioannina
         time: Oct 2014 - Jan 2019
         details: |
             - Focused on the mathematical foundations of statistical principles, enhancing my understanding of 
-            the theoretical underpinnings of data analysis and inference.
+                the theoretical underpinnings of data analysis and inference.
             - High grades in statistical data analysis with R and IBM SPSS software.
 experiences:
     title: Experiences
@@ -79,16 +79,8 @@ experiences:
         time: Sep 2021 - Present
         company: Office for National Statistics (ONS), Newport, UK
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
+            - Proficient in Power BI, I specialize in crafting customized dashboards and reports
+                that cater to specific client requirements. My expertise includes advanced utilization of DAX measures and Power Query for robust data analysis. I also excel in creating tailored charts using Vega-Lite, enhancing data visualization. With a client-focused approach and a knack for problem-solving, I deliver insightful solutions that drive informed decision-making.
             - Bullet point
 skills:
     title: Skills &amp; Proficiency
